@@ -2,5 +2,6 @@
 
 This is my snake game project built using SFML
 
-![image](https://github.com/user-attachments/assets/f9d5440f-337a-41b4-a2a3-14a6ee139e0e)
+![image](https://github.com/user-attachments/assets/6e44013d-0128-416f-bd6d-a1302085e774)
+
 
